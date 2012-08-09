@@ -1,7 +1,7 @@
 {
   "name": "response-end",
   "description": "Adds an end event to the given response object",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mike Frey <frey.mike@gmail.com>",
   "keywords": ["response", "end", "event", "http"],
   "dependencies": {},
